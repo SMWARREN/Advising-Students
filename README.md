@@ -1,5 +1,5 @@
 # The Advising Student Problem in C++
-## The MultiThreaded Problem with Semaphores
+## Using Semaphores
 -Sean Warren
 
 ----------------------------------------------------------------------------------------------
